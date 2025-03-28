@@ -6,10 +6,6 @@
 
 ###
 
-# 💫 About Me:
-I'm a computer science student at University of Constantine 2 Abdelhamid Mehri, L1 , Passionate Future Full stack dev.
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ram.ich.37819/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/zaki.forsure/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rebai-zakaria-4685aa341) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rebai.zakaria16@gmail.com) 
 
